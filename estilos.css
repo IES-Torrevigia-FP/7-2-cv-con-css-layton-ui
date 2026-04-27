@@ -36,6 +36,7 @@
 .rightbox-image{
     width: 100%;
     height: auto;
+    border-radius: 10px;
 }
 
 body{
@@ -51,4 +52,25 @@ h1{
     padding: 12px;
     width: 40%;
     text-align: center;
+    border-radius: 10px;
+}
+
+.volver-link{
+    width: 40%;
+    display: block;
+    float: right;
+    margin-top: 30px;
+    background-color: #5f9ea0;
+    padding: 8px;
+    color: white;
+    text-decoration: none;
+    border-radius: 10px;
+}
+
+.flecha-izq-volver{
+    width: 10px;
+    height: auto;
+    vertical-align: middle;
+    margin-right: 8px;
+    margin-bottom: 2px;
 }
