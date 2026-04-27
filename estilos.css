@@ -42,7 +42,7 @@
 body{
     margin-left: 40px;
     margin-top: 20px;
-    background-color: #f0f0f0;
+    background-color:#e0ffff;
     font-family: Arial, sans-serif;
 }
 
@@ -53,6 +53,7 @@ h1{
     width: 40%;
     text-align: center;
     border-radius: 10px;
+    text-decoration: underline;
 }
 
 .volver-link{
@@ -65,6 +66,10 @@ h1{
     color: white;
     text-decoration: none;
     border-radius: 10px;
+}
+
+.volver-link:hover{
+    background-color:darkred;
 }
 
 .flecha-izq-volver{
