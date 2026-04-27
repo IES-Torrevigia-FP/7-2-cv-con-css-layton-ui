@@ -1,0 +1,18 @@
+leftbox{
+    width: 50%;
+    float: left;
+    padding: 20px;
+}
+
+rightbox{
+    width: 50%;
+    float: right;
+    padding: 20px;
+}
+
+body{
+    margin-left: 40px;
+    margin-top: 20px;
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+}
