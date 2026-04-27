@@ -69,21 +69,15 @@ a{
 
 .volver-link{
     width: 40%;
-    display: block;
     float: right;
     margin-top: 30px;
-    background-color: #59a;
-    padding: 8px;
-    color: white;
-    text-decoration: none;
-    border-radius: 10px;
 }
 
-.volver-link:hover{
+a:hover{
     background-color:#800;
 }
 
-.volver-link:active{
+a:active{
     background-color:#000;
 }
 
