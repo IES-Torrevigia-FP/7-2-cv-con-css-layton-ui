@@ -5,11 +5,27 @@
     text-align: justify;
 }
 
+.indexlist{
+    list-style-type: square;
+    padding-left: 40px;
+}
+
+.blanklist{
+    list-style-type: none;
+    padding-left: 20px;
+    line-height: 1.5;
+}
+
 .rightbox{
     width: 25%;
     float: right;
     padding: 10px;
     text-align: justify;
+}
+
+.rightbox-image{
+    width: 100%;
+    height: auto;
 }
 
 body{
