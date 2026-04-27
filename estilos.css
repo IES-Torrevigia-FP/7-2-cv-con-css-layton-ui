@@ -1,13 +1,15 @@
-leftbox{
-    width: 50%;
+.leftbox{
+    width: 70%;
     float: left;
-    padding: 20px;
+    padding: 10px;
+    text-align: justify;
 }
 
-rightbox{
-    width: 50%;
+.rightbox{
+    width: 25%;
     float: right;
-    padding: 20px;
+    padding: 10px;
+    text-align: justify;
 }
 
 body{
