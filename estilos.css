@@ -5,6 +5,13 @@
     text-align: justify;
 }
 
+.rightbox{
+    width: 25%;
+    float: right;
+    padding: 10px;
+    text-align: justify;
+}
+
 .indexlist{
     list-style-type: square;
     padding-left: 40px;
@@ -24,13 +31,6 @@
 
 .spacedlist li{
     margin-bottom: 10px;
-}
-
-.rightbox{
-    width: 25%;
-    float: right;
-    padding: 10px;
-    text-align: justify;
 }
 
 .rightbox-image{
@@ -67,12 +67,6 @@ a{
     padding: 8px;
 }
 
-.volver-link{
-    width: 40%;
-    float: right;
-    margin-top: 30px;
-}
-
 a:hover{
     background-color:#800;
 }
@@ -81,7 +75,13 @@ a:active{
     background-color:#000;
 }
 
-.flecha-izq-volver{
+.volver-link{
+    width: 40%;
+    float: right;
+    margin-top: 30px;
+}
+
+.flecha-izq{
     width: 10px;
     height: auto;
     vertical-align: middle;
@@ -89,7 +89,7 @@ a:active{
     margin-bottom: 2px;
 }
 
-.flecha-derecha{
+.flecha-der{
     width: 10px;
     height: auto;
     vertical-align: middle;
