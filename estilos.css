@@ -43,7 +43,7 @@ body{
     margin-left: 40px;
     margin-top: 20px;
     background-color:#e0ffff;
-    font-family: Arial, sans-serif;
+    font-family: "Quicksand", sans-serif;
 }
 
 h1{
@@ -53,7 +53,10 @@ h1{
     width: 40%;
     text-align: center;
     border-radius: 10px;
-    text-decoration: underline;
+}
+
+h1, h2, h3, h4, h5, h6{
+    font-family: "Electrolize", sans-serif;
 }
 
 a{
