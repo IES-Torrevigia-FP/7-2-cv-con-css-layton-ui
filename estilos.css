@@ -12,6 +12,7 @@
 body{
     margin-left: 40px;
     margin-top: 20px;
+    margin-bottom: 0;
     background-color: var(--color-fondo);
     font-family: var(--fuente-sans);
     font-size: 1.2em;
